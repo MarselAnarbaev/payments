@@ -1,0 +1,8 @@
+.env
+.idea
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+Тестовое%20PYTHON%20.pdf
